@@ -1,0 +1,13 @@
+.main-page {
+    background-color: rgb(225, 241, 225);
+}
+h1 {
+    font-family: Megrim, sans-serif;
+    font-size: 60px;
+    text-align: center;
+}
+.list-recipes a {
+    font-family: "Smooch Sans", sans-serif;
+    font-size: 2em;
+    color: rgb(78, 58, 51);
+}
