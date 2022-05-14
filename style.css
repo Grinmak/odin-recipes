@@ -1,7 +1,7 @@
 .main-page {
     background-color: rgb(225, 241, 225);
 }
-h1 {
+h1, h3 {
     font-family: Megrim, sans-serif;
     font-size: 60px;
     text-align: center;
@@ -11,3 +11,25 @@ h1 {
     font-size: 2em;
     color: rgb(78, 58, 51);
 }
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+.description {
+    font-size: 25px;
+    font-family: "Smooch Sans", sans-serif;
+}
+h4, li {
+    font-family: 'Times New Roman', Times, serif;
+    font-style:italic;
+    font-size: 1.2em;
+}
+li {
+    font-style: normal;
+}
+p {
+    color:gray;
+    font-size: 20px;
+   }
